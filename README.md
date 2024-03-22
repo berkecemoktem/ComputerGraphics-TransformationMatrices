@@ -1,7 +1,7 @@
 # ComputerGraphics-TransformationMatrices
 The project aims to provide a fundamental understanding of 3D transformations and how they apply to simulating the movement and orientation of a drone using JavaScript.
 
-![drone_project_javascript](https://github.com/berkecemoktem/ComputerGraphics-TransformationMatrices/assets/75270752/3715c15b-3787-4b5e-8bfb-f69661ca3b67)
+![graphics_transformations](https://github.com/berkecemoktem/ComputerGraphics-TransformationMatrices/assets/75270752/fee633b1-20e2-4db0-9182-7309045d37fd)
 
 
 ## Detailed Explanation
